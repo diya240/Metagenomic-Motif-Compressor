@@ -1,0 +1,19 @@
+START
+
+Read DNA Sequence
+
+Find Repeated Motifs
+
+FOR each motif found
+
+    Create Dictionary Entry
+
+END FOR
+
+Replace Motifs with Reference IDs
+
+Generate Compressed Output
+
+Store Compressed Sequence
+
+END

@@ -1,0 +1,16 @@
+# Dictionary Structure
+
+M1 = ATGG
+M2 = CGTA
+M3 = TTAA
+
+Compressed Output Example:
+
+M1CTM2M3
+
+# Compression Ratio
+
+Compression Ratio = Original Size / Compressed Size
+
+Goal:
+Reduce DNA storage size while maintaining lossless reconstruction.

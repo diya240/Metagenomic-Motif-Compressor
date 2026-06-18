@@ -1,0 +1,12 @@
+#Metagenomic Motif Compressor Algorithm
+
+1. Read the DNA sequence from the input file.
+2. Scan the sequence to identify repeated motifs.
+3. Count motif occurrences.
+4. Select motifs appearing more than once.
+5. Create a dictionary of motifs.
+6. Assign reference identifiers to each motif.
+7. Replace repeated motifs with references.
+8. Generate compressed DNA output.
+9. Store dictionary and compressed sequence.
+10. Enable reconstruction of original DNA.
