@@ -22,3 +22,26 @@ Code
 Datasets
 Results
 Report
+
+## Workflow
+
+1. Input DNA Sequence
+2. Motif Detection
+3. Dictionary Creation
+4. Reference Encoding
+5. Compression
+6. Compressed DNA Output
+
+## Technologies Used
+
+* Python
+* GitHub
+* Microsoft Word
+* Canva
+
+## Future Scope
+
+* Machine Learning based motif prediction
+* Parallel compression techniques
+* Real-time genomic data processing
+* Cloud-based genomic storage integration
